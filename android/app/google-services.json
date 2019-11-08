@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "931643761972",
+    "firebase_url": "https://flash-chat-e18ba.firebaseio.com",
+    "project_id": "flash-chat-e18ba",
+    "storage_bucket": "flash-chat-e18ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931643761972:android:97d236097a42a18c12b161",
+        "android_client_info": {
+          "package_name": "co.GurupratapMatharu.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931643761972-ae6de0fmmu6lodhcj7kltrr81sch4rs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT6N75LQdkKhTnILT3_36z3IHg-aotTrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931643761972-ae6de0fmmu6lodhcj7kltrr81sch4rs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
